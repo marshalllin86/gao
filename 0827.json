@@ -2,22 +2,10 @@
   "spider": "./jar/custom_spider.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 
-  "lives": [
-    {
-      "name": "直播",
-      "type": 0,
-      "url":＂https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/live.txt＂，
-      //"url": "https://raw.githubusercontent.com/marshalllin86/gao/master/aulive.txt"，
-      //"url": "https://raw.gitmirror.com/bluefriendCN/set/main/live.txt",
-      //"url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/pro.txt",    
-      //"url": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/sunny.txt",  	    
-      "url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt",   
-      //"url": "https://gitlab.com/602700627/MTQ-AUTOTEST/-/raw/master/vip.txt?ref_type=heads",
-      //"url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/mitv.txt",     
-      //"url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-    }
-  ],
+  "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
+"https://raw.githubusercontent.com/marshalllin86/gao/master/aulive.txt"
+]}]}],
+
   "sites": [
         {
       "key": "haiwaikan",
