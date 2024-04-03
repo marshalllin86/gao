@@ -37,6 +37,18 @@ https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV13.cn",CCTV-13新闻 (1080p)
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 tvg-id="",無綫新聞台
+https://pull-f5-spe.ixigua.com/yeslivetv.com/446133069-816601364/index.m3u8
+#EXTINF:-1 tvg-id="",無綫財經·體育·資訊台
+https://pull-f5-spe.ixigua.com/yeslivetv.com/944048695-106799677/index.m3u8
+#EXTINF:-1 tvg-id="",翡翠台
+https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
+#EXTINF:-1 tvg-id="",香港國際財經台
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8
+#EXTINF:-1 tvg-id="",鳳凰中文
+https://pull-f5-spe.ixigua.com/yeslivetv.com/592947253-711982631/index.m3u8
+#EXTINF:-1 tvg-id="",鳳凰資訊
+https://pull-f5-spe.ixigua.com/yeslivetv.com/303328069-581799927/index.m3u8
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/all/epg.xml"
 
